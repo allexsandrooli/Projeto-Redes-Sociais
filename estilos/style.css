@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{
+    background-image:url(../imagens/fundo-madeira.jpg);
+    background-position: cover;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteiner{
+    height: 100vw;
+    position: relative;
+    margin:0px;
+}
+.iphone{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.iphone >img{
+    display:
+
+}
+
+iframe{
+    width: 275px;
+    height: 500px;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
